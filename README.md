@@ -28,12 +28,12 @@ how ever if you are going to be using it on a JS emulator it should be easier
 }
 
 **the packages are:**
-ytdl core
-yt earch
-opus script
-ffmpeg
-express
-discord.js
+ytdl core |
+yt search |
+opus script |
+ffmpeg |
+express |
+discord.js |
 and discordjs opus.
 
 ## running 
