@@ -1,5 +1,6 @@
 # DiscordTune
 DiscordTune is music bot im developing because groovy got shut down :)
+**DISCLAMER THIS IS MENT TO RUN ON REPL JS EMULATOR IF YOU WANT TO RUN IT ELSEWHERE IT WILL REQUIRE MODIFICATIONS**
 ## Setup
 the first thing you are going to want to do is install the following packages to be able to run it on your own machine, 
 how ever if you are going to be using it on a JS emulator it should be easier 
