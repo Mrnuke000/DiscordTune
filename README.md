@@ -26,7 +26,8 @@ how ever if you are going to be using it on a JS emulator it should be easier
     "ytdl-core": "^4.9.1"
   }
 }
-the packages are
+
+**the packages are:**
 ytdl core
 yt earch
 opus script
